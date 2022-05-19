@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Thực Phẩm Sấy Khô"
+        android:id="@+id/vhdd"/>
+    <item android:title="Thực Phẩm Chế Biến Sẳn"
+        android:id="@+id/gkgtbt"/>
+    <item android:title="Rau Củ Quả"
+    android:id="@+id/pl"/>
+    <item android:title="Thực phẩm cao cấp"
+        android:id="@+id/tpvhvn"/>
+    <item android:title="Thể Loại Khác"
+        android:id="@+id/tlkhac"/>
+
+</menu>
